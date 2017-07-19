@@ -25,4 +25,4 @@ Field Study 用のテンプレート集 レポジトリ
 
 ---
 
-<img width="1080" alt="2017-04-06 11 57 09" src="https://cloud.githubusercontent.com/assets/416977/24736146/53ba12d4-1ac1-11e7-987e-760410e4e373.png">
+<img width="771" alt="2017-07-19 17 49 10" src="https://user-images.githubusercontent.com/416977/28358689-b19619da-6caa-11e7-80ca-a8b2a4ca5554.png">
