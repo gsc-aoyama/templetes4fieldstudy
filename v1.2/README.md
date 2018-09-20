@@ -3,4 +3,5 @@
 * 2018年表記に修正。
 
 ---
-<img width="771" alt="2017-07-19 17 49 10" src="https://user-images.githubusercontent.com/416977/28358689-b19619da-6caa-11e7-80ca-a8b2a4ca5554.png">
+<img width="660" alt="2018-09-20 9 39 33" src="https://user-images.githubusercontent.com/416977/45789142-2a553900-bcb9-11e8-922e-0121ae274e6d.png">
+
